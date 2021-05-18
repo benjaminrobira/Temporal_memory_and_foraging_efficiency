@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1606488545 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\confidence_estimation.cpp
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+
+1606491435 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\associative_model.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1579878823 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\food_calculation.h
+
+1581092400 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\confidence_estimation.h
+
+1606489902 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\chronological_model_for_delay.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1606490381 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\food_calculation.cpp
+	"Food_calculation.h"
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+
+1606489669 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\null_model.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1606489523 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\null_working_memory_model.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1606489524 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\omniscient_model.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1612210835 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\chronological_model.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+
+1612278283 source:c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<math.h>
+	<cmath>
+	<ctgmath>
+	<random>
+	<limits>
+	<algorithm>
+	<array>
+	<vector>
+	<string>
+	<stdlib.h>
+	<omp.h>
+	<thread>
+	"Food_calculation.h"
+	"Confidence_estimation.h"
+	"Null_model.h"
+	"Null_working_memory_model.h"
+	"Chronological_model.h"
+	"Chronological_model_for_delay.h"
+	"Associative_model.h"
+	"Omniscient_model.h"
+
+1583768014 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\null_model.h
+
+1581091803 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\null_working_memory_model.h
+
+1581091803 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\chronological_model.h
+
+1585560128 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\chronological_model_for_delay.h
+
+1581091803 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\associative_model.h
+
+1581087649 c:\users\robira\documents\phd\theoretical_analysis\model_cleaned_of_memory_time_model_simplified_cleaned\omniscient_model.h
+
